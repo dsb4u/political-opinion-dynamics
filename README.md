@@ -2,7 +2,7 @@
 
 This repository contains the implementation used in the thesis:
 
-**"Modeling Opinion Dynamics in Online Political Discussions"**
+**"Political Opinion Shift Prediction Using RoBERTa, GAT and TGN"**
 
 ## Overview
 
